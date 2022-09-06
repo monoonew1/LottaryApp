@@ -1,0 +1,48 @@
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.csproj.AssemblyReference.cache
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.AssemblyInfoInputs.cache
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.AssemblyInfo.cs
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.csproj.CoreCompileInputs.cache
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.exe
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.deps.json
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.runtimeconfig.json
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.runtimeconfig.dev.json
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.pdb
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\ref\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.pdb
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.genruntimeconfig.cache
+C:\Users\Masami\source\repos\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\ref\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.exe
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.deps.json
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.runtimeconfig.json
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.runtimeconfig.dev.json
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\ref\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.pdb
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.csproj.AssemblyReference.cache
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.AssemblyInfoInputs.cache
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.AssemblyInfo.cs
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.csproj.CoreCompileInputs.cache
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\ref\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.pdb
+C:\Users\Masami\source\repos\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.genruntimeconfig.cache
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.exe
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.deps.json
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.runtimeconfig.json
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.runtimeconfig.dev.json
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\bin\Debug\net5.0\SimpleLotteryApp.pdb
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.csproj.AssemblyReference.cache
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.AssemblyInfoInputs.cache
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.AssemblyInfo.cs
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.csproj.CoreCompileInputs.cache
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\refint\SimpleLotteryApp.dll
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.pdb
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\SimpleLotteryApp.genruntimeconfig.cache
+C:\Users\Masami\source\repos\Whihtecliffe\IT6033 Data Structures and Algorism\Assessments\Practical Task4\IT6033_PracticalTask4_20210533\SimpleLotteryApp\SimpleLotteryApp\obj\Debug\net5.0\ref\SimpleLotteryApp.dll
